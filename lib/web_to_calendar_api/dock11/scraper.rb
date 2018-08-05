@@ -1,7 +1,6 @@
 require "rubygems"
 require "nokogiri"
 require "httparty"
-require "open-uri"
 require "json"
 require "digest"
 

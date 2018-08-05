@@ -3,6 +3,7 @@ PATH
   specs:
     web_to_calendar_api (0.1.0)
       httparty (= 0.16.2)
+      nokogiri
 
 GEM
   remote: https://rubygems.org/
@@ -14,8 +15,11 @@ GEM
     hashdiff (0.3.7)
     httparty (0.16.2)
       multi_xml (>= 0.5.2)
+    mini_portile2 (2.3.0)
     minitest (5.11.3)
     multi_xml (0.6.0)
+    nokogiri (1.8.4)
+      mini_portile2 (~> 2.3.0)
     public_suffix (3.0.2)
     rake (10.5.0)
     safe_yaml (1.0.4)
