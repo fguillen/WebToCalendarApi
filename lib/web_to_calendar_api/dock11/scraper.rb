@@ -110,12 +110,13 @@ module WebToCalendarApi
             check_sum = Digest::SHA2.hexdigest("#{VENUE}#{title}#{url}#{date_time}")
 
             results << {
-              :check_sum => check_sum,
-              :title => title,
-              :url => "#{ROOT_URL}/#{url}",
-              :date_time => date_time,
-              :info => parse_info(url),
-              :pics => parse_pics(url),
+              "checksum" => check_sum,
+              "title" => title,
+              "url" => "#{ROOT_URL}/#{url}",
+              "date_time" => date_time,
+              "info" => parse_info(url),
+              "pics" => parse_pics(url),
+              "tags" => ["dance"]
             }
           end
         end
