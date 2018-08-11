@@ -13,6 +13,7 @@ class WebToCalendarApi::Dock11::ScraperTest < Minitest::Test
 
     result = JSON.pretty_generate WebToCalendarApi::Dock11::Scraper.run
 
+    # puts "Warning: writing fixture!"
     # File.open("#{__dir__}/fixtures/calendar.json", "w") do |f|
     #   f.write result
     # end

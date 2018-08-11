@@ -15,23 +15,27 @@ module WebToCalendarApi
         parse_calendar
       end
 
-
       def self.parse_info(url)
+        puts "Parsing Info: #{url}"
+
+        # puts "Warning: writing fixture!"
+        # File.open("#{__dir__}/test/fixtures/#{File.basename(url)}.html", "w") do |f|
+        #   f.write open("#{ROOT_URL}#{url}").read
+        # end
+
         element = Nokogiri::HTML(open("#{ROOT_URL}#{url}"))
         info = element.css("#description").children.map(&:text).map { |text| text.gsub(Nokogiri::HTML("&nbsp;"), "") }.map(&:strip).select { |text| !text.empty? }
 
         info
       end
 
-      # puts JSON.pretty_generate parse_info("/index.php/monatsprogramm/15-events/191-nostructure")
-      # exit 0
-
       def self.parse_pics(url)
+        puts "Parsing Pics: #{url}"
+
         element = Nokogiri::HTML(open("#{ROOT_URL}#{url}"))
         pics = element.css("#description img").map { |element| element.attribute("src") }.map(&:text)
 
         # Transform
-
         pics =
           pics.map do |pic|
             if !pic.match(/^http/)
@@ -44,17 +48,21 @@ module WebToCalendarApi
         pics
       end
 
-      # puts JSON.pretty_generate parse_pics("/index.php/monatsprogramm/15-events/191-nostructure")
-      # exit 0
-
-
       def self.parse_calendar
-        puts "Parsing Calendar"
+        puts "Parsing Calendar :: #{VENUE}"
+
+        # puts "Warning: writing fixture!"
+        # File.open("#{__dir__}/test/fixtures/monatsprogramm.html", "w") do |f|
+        #   f.write HTTParty.get("#{ROOT_URL}/index.php/monatsprogramm")
+        # end
 
         ## Collection
         page = Nokogiri::HTML(open("#{ROOT_URL}/index.php/monatsprogramm"))
 
-        elements = page.css(".events_container tr:nth-child(n+2)")#.select { |element| !element.attribute("colspan") == "3" }
+        elements = page.css(".events_container tr")
+
+        # Remove Month Headers
+        elements = elements.select { |element| element.css("td:nth-child(1)").attribute("class").to_s != "sc_header" }
 
         results =
           elements.map do |element|
@@ -63,12 +71,9 @@ module WebToCalendarApi
 
         results
 
-        # puts parse_calendar(ROOT_URL)
-        # exit 0
-
         result = {
-          "title" => "Villa Kuriosum",
-          "calendar_url" => "http://villakuriosum.net/index.php/monatsprogramm",
+          "title" => VENUE,
+          "calendar_url" => "#{ROOT_URL}/index.php/monatsprogramm",
           "calendar_elements" => results
         }
 
@@ -95,6 +100,7 @@ module WebToCalendarApi
           "date_time" => date_time,
           "info" => parse_info(path),
           "pics" => parse_pics(path),
+          "tags" => ["theater", "performance", "circus"]
         }
 
         result

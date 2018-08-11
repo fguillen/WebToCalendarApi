@@ -3,7 +3,7 @@
   "calendar_url": "http://www.dock11-berlin.de/index.php/cat/c1_Veranstaltungen.html",
   "calendar_elements": [
     {
-      "check_sum": "3f4583402a56b33b3bd65bd44189b865c9e23e0c4b24c9f99b1f2a865a21681c",
+      "checksum": "3f4583402a56b33b3bd65bd44189b865c9e23e0c4b24c9f99b1f2a865a21681c",
       "title": "Once in California...",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p694_Once-in-California---.html",
       "date_time": "2018-08-09 19:00:00 +0200",
@@ -65,10 +65,15 @@
         "http://www.dock11-berlin.de/images/image/another%20land.jpg",
         "http://www.dock11-berlin.de/images/image/OnlyHuman_Sigel%20Eschkol-1.jpg",
         "http://www.dock11-berlin.de/images/image/Emre%20Altan.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "05e2ef14526cdb9557e24834f39b5a81516d73c07be6ba69fa49f6753918d76f",
+      "checksum": "05e2ef14526cdb9557e24834f39b5a81516d73c07be6ba69fa49f6753918d76f",
       "title": "Once in California...",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p694_Once-in-California---.html",
       "date_time": "2018-08-10 19:00:00 +0200",
@@ -130,10 +135,15 @@
         "http://www.dock11-berlin.de/images/image/another%20land.jpg",
         "http://www.dock11-berlin.de/images/image/OnlyHuman_Sigel%20Eschkol-1.jpg",
         "http://www.dock11-berlin.de/images/image/Emre%20Altan.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "41bf7abf39f4ab3f66c550b645ff79d27184c7c4b3eb97708cdb768c38695449",
+      "checksum": "41bf7abf39f4ab3f66c550b645ff79d27184c7c4b3eb97708cdb768c38695449",
       "title": "Once in California...",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p694_Once-in-California---.html",
       "date_time": "2018-08-11 19:00:00 +0200",
@@ -195,10 +205,15 @@
         "http://www.dock11-berlin.de/images/image/another%20land.jpg",
         "http://www.dock11-berlin.de/images/image/OnlyHuman_Sigel%20Eschkol-1.jpg",
         "http://www.dock11-berlin.de/images/image/Emre%20Altan.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "72e48c23f42128111a4ce87bef9ffaff5f3d22691200b9fae464a37032aeed8e",
+      "checksum": "72e48c23f42128111a4ce87bef9ffaff5f3d22691200b9fae464a37032aeed8e",
       "title": "Once in California...",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p694_Once-in-California---.html",
       "date_time": "2018-08-12 19:00:00 +0200",
@@ -260,10 +275,15 @@
         "http://www.dock11-berlin.de/images/image/another%20land.jpg",
         "http://www.dock11-berlin.de/images/image/OnlyHuman_Sigel%20Eschkol-1.jpg",
         "http://www.dock11-berlin.de/images/image/Emre%20Altan.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "6e26a825ab3cfa739327e61a1204e5dbdfba9d355cfde7cdda5f82c0327a1dd2",
+      "checksum": "6e26a825ab3cfa739327e61a1204e5dbdfba9d355cfde7cdda5f82c0327a1dd2",
       "title": "Fallback",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p703_Fallback.html",
       "date_time": "2018-08-17 19:00:00 +0200",
@@ -283,10 +303,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/Fallback_Image_Emily_Ranford_50.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "b6bc9fb51676506be0ceeefd2583eff507226052084cd1647a117124f881fdb0",
+      "checksum": "b6bc9fb51676506be0ceeefd2583eff507226052084cd1647a117124f881fdb0",
       "title": "Fallback",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p703_Fallback.html",
       "date_time": "2018-08-18 19:00:00 +0200",
@@ -306,10 +331,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/Fallback_Image_Emily_Ranford_50.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "9bce4f5538af26b1173eba3f302faa0aa6beb22db6c1b04ba39ab88ba09c75d9",
+      "checksum": "9bce4f5538af26b1173eba3f302faa0aa6beb22db6c1b04ba39ab88ba09c75d9",
       "title": "Fallback",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p703_Fallback.html",
       "date_time": "2018-08-19 19:00:00 +0200",
@@ -329,10 +359,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/Fallback_Image_Emily_Ranford_50.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "de67c30eedf3e69231f5a6e5ce785172d8cc8b28114b3798d9f5bd12b2fc3403",
+      "checksum": "de67c30eedf3e69231f5a6e5ce785172d8cc8b28114b3798d9f5bd12b2fc3403",
       "title": "CHASM & MOLIMO",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p702_CHASM---MOLIMO.html",
       "date_time": "2018-08-23 19:00:00 +0200",
@@ -363,10 +398,15 @@
       "pics": [
         "http://www.dock11-berlin.de//images/CHASMMOLIMO POSTER_294.jpg",
         "http://www.dock11-berlin.de/images/logos/GI_Logo_vertical_green_sRGB.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "4f5862a4e25d36424b736937182268d99b5c26b0c9dabe74b7c44ae92375b431",
+      "checksum": "4f5862a4e25d36424b736937182268d99b5c26b0c9dabe74b7c44ae92375b431",
       "title": "CHASM & MOLIMO",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p702_CHASM---MOLIMO.html",
       "date_time": "2018-08-24 19:00:00 +0200",
@@ -397,10 +437,15 @@
       "pics": [
         "http://www.dock11-berlin.de//images/CHASMMOLIMO POSTER_294.jpg",
         "http://www.dock11-berlin.de/images/logos/GI_Logo_vertical_green_sRGB.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "4a4dce780bff453449003f6453c4442232cdf3346aad5d36069174e87f9fcb1a",
+      "checksum": "4a4dce780bff453449003f6453c4442232cdf3346aad5d36069174e87f9fcb1a",
       "title": "CHASM & MOLIMO",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p702_CHASM---MOLIMO.html",
       "date_time": "2018-08-25 19:00:00 +0200",
@@ -431,10 +476,15 @@
       "pics": [
         "http://www.dock11-berlin.de//images/CHASMMOLIMO POSTER_294.jpg",
         "http://www.dock11-berlin.de/images/logos/GI_Logo_vertical_green_sRGB.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "6d8006ccf6b063b5184d5830c87779492bb331c17e6014f5e6f7de09ac0a7d6b",
+      "checksum": "6d8006ccf6b063b5184d5830c87779492bb331c17e6014f5e6f7de09ac0a7d6b",
       "title": "CHASM & MOLIMO",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p702_CHASM---MOLIMO.html",
       "date_time": "2018-08-26 19:00:00 +0200",
@@ -465,10 +515,15 @@
       "pics": [
         "http://www.dock11-berlin.de//images/CHASMMOLIMO POSTER_294.jpg",
         "http://www.dock11-berlin.de/images/logos/GI_Logo_vertical_green_sRGB.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "cf202d09938e6cc88e17b2b19cd86baf0c9132ac0ab778547dadf5a631a1c2c5",
+      "checksum": "cf202d09938e6cc88e17b2b19cd86baf0c9132ac0ab778547dadf5a631a1c2c5",
       "title": "BLACK VELVET & BLACK HOLE",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p701_BLACK-VELVET---BLACK-HOLE-.html",
       "date_time": "2018-08-30 19:00:00 +0200",
@@ -505,10 +560,15 @@
         "http://www.dock11-berlin.de/images/logos/NYFAlogoTransparent%20Kopie.jpg",
         "http://www.dock11-berlin.de/images/logos/2x4_TMU_logo_CMYK.jpg",
         "http://www.dock11-berlin.de/images/logos/dock11logo.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "81e57d1fe7b5f41694981b9908ea8ed4e27441a1ce0d9fc8b54ca1a810b1ce6d",
+      "checksum": "81e57d1fe7b5f41694981b9908ea8ed4e27441a1ce0d9fc8b54ca1a810b1ce6d",
       "title": "BLACK VELVET & BLACK HOLE",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p701_BLACK-VELVET---BLACK-HOLE-.html",
       "date_time": "2018-08-31 19:00:00 +0200",
@@ -545,10 +605,15 @@
         "http://www.dock11-berlin.de/images/logos/NYFAlogoTransparent%20Kopie.jpg",
         "http://www.dock11-berlin.de/images/logos/2x4_TMU_logo_CMYK.jpg",
         "http://www.dock11-berlin.de/images/logos/dock11logo.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "9390044930ea69ff095c8ca43c0ce89ac1939dd6912c5b9362df3444f570a131",
+      "checksum": "9390044930ea69ff095c8ca43c0ce89ac1939dd6912c5b9362df3444f570a131",
       "title": "BLACK VELVET & BLACK HOLE",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p701_BLACK-VELVET---BLACK-HOLE-.html",
       "date_time": "2018-09-01 19:00:00 +0200",
@@ -585,10 +650,15 @@
         "http://www.dock11-berlin.de/images/logos/NYFAlogoTransparent%20Kopie.jpg",
         "http://www.dock11-berlin.de/images/logos/2x4_TMU_logo_CMYK.jpg",
         "http://www.dock11-berlin.de/images/logos/dock11logo.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "0ac96f074d7098d8a118c5b437a86474e7a911f756a6fdc9d3d3d3b0bc65415c",
+      "checksum": "0ac96f074d7098d8a118c5b437a86474e7a911f756a6fdc9d3d3d3b0bc65415c",
       "title": "BLACK VELVET & BLACK HOLE",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p701_BLACK-VELVET---BLACK-HOLE-.html",
       "date_time": "2018-09-02 19:00:00 +0200",
@@ -625,10 +695,15 @@
         "http://www.dock11-berlin.de/images/logos/NYFAlogoTransparent%20Kopie.jpg",
         "http://www.dock11-berlin.de/images/logos/2x4_TMU_logo_CMYK.jpg",
         "http://www.dock11-berlin.de/images/logos/dock11logo.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "86d04410fb8c2d7fb8c8b6f79759bcc9157dd5499380c22083171189a9e5aa12",
+      "checksum": "86d04410fb8c2d7fb8c8b6f79759bcc9157dd5499380c22083171189a9e5aa12",
       "title": "COMMEDIA FUTURA: TWO",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p705_COMMEDIA-FUTURA--TWO.html",
       "date_time": "2018-09-06 00:00:00 +0200",
@@ -665,10 +740,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/Two_668.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "ed795519164242ca384d2bcb57955436125a8c2728ae4a07777f003931ef37be",
+      "checksum": "ed795519164242ca384d2bcb57955436125a8c2728ae4a07777f003931ef37be",
       "title": "COMMEDIA FUTURA: TWO",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p705_COMMEDIA-FUTURA--TWO.html",
       "date_time": "2018-09-07 00:00:00 +0200",
@@ -705,10 +785,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/Two_668.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "300bc897af048978a5f10166b4d2783892aacc5d3361700e2c1876397af42080",
+      "checksum": "300bc897af048978a5f10166b4d2783892aacc5d3361700e2c1876397af42080",
       "title": "COMMEDIA FUTURA: TWO",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p705_COMMEDIA-FUTURA--TWO.html",
       "date_time": "2018-09-08 00:00:00 +0200",
@@ -745,10 +830,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/Two_668.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "eaee16cd41a70e17342a9a6fc2e4fd55cccc310f8b61132a6a88b78a5123bb1f",
+      "checksum": "eaee16cd41a70e17342a9a6fc2e4fd55cccc310f8b61132a6a88b78a5123bb1f",
       "title": "COMMEDIA FUTURA: TWO",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p705_COMMEDIA-FUTURA--TWO.html",
       "date_time": "2018-09-09 00:00:00 +0200",
@@ -785,10 +875,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/Two_668.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "bdd3dc53fdfcda6408d48af2bbc50bc55a8bff54233d4458340c48b04edab82e",
+      "checksum": "bdd3dc53fdfcda6408d48af2bbc50bc55a8bff54233d4458340c48b04edab82e",
       "title": "3 JAHRE AGAPE ZOE BERLIN",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p620_3-JAHRE-AGAPE-ZOE-BERLIN.html",
       "date_time": "2018-09-08 00:00:00 +0200",
@@ -801,10 +896,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/28947929_10160150453530261_539606069329452185_o_207.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "61e0a1e1ccf9dc16a6de7a30dd2d7fd161c41918ee51bbc3ce18a254c82778b8",
+      "checksum": "61e0a1e1ccf9dc16a6de7a30dd2d7fd161c41918ee51bbc3ce18a254c82778b8",
       "title": "3 JAHRE AGAPE ZOE BERLIN",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p620_3-JAHRE-AGAPE-ZOE-BERLIN.html",
       "date_time": "2018-09-09 00:00:00 +0200",
@@ -817,10 +917,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/28947929_10160150453530261_539606069329452185_o_207.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "28ac396acc9979444ecc3da5d7adb6e70a60f5c1663bf9fbb2af65c4d16bc442",
+      "checksum": "28ac396acc9979444ecc3da5d7adb6e70a60f5c1663bf9fbb2af65c4d16bc442",
       "title": "POOL 18 - INTERNATIONALES TanzFilmFestival BERLIN",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p706_POOL-18---INTERNATIONALES-TanzFilmFestival-BERLIN.html",
       "date_time": "2018-09-12 00:00:00 +0200",
@@ -844,10 +949,15 @@
         "http://www.dock11-berlin.de//images/BDietl_POOL Kopie_115.jpg",
         "http://www.dock11-berlin.de/images/images/M5e_cezg.jpg",
         "http://www.dock11-berlin.de/images/logos/Sen_KuEu_logo_quer.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "1aff73fdcf9c160cfc0274669f322d561d8ccdebec9ca6d15cd2c34b0b9cfde8",
+      "checksum": "1aff73fdcf9c160cfc0274669f322d561d8ccdebec9ca6d15cd2c34b0b9cfde8",
       "title": "POOL 18 - INTERNATIONALES TanzFilmFestival BERLIN",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p706_POOL-18---INTERNATIONALES-TanzFilmFestival-BERLIN.html",
       "date_time": "2018-09-13 00:00:00 +0200",
@@ -871,10 +981,15 @@
         "http://www.dock11-berlin.de//images/BDietl_POOL Kopie_115.jpg",
         "http://www.dock11-berlin.de/images/images/M5e_cezg.jpg",
         "http://www.dock11-berlin.de/images/logos/Sen_KuEu_logo_quer.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "44585168ebbed93d98a42fc5397290a7057d764913f474c4a1d2b788874dab03",
+      "checksum": "44585168ebbed93d98a42fc5397290a7057d764913f474c4a1d2b788874dab03",
       "title": "POOL 18 - INTERNATIONALES TanzFilmFestival BERLIN",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p706_POOL-18---INTERNATIONALES-TanzFilmFestival-BERLIN.html",
       "date_time": "2018-09-14 00:00:00 +0200",
@@ -898,10 +1013,15 @@
         "http://www.dock11-berlin.de//images/BDietl_POOL Kopie_115.jpg",
         "http://www.dock11-berlin.de/images/images/M5e_cezg.jpg",
         "http://www.dock11-berlin.de/images/logos/Sen_KuEu_logo_quer.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "694e740aa4262ccb864bad97e6d8a7f76594921b7fb90bbd55598a8a41437123",
+      "checksum": "694e740aa4262ccb864bad97e6d8a7f76594921b7fb90bbd55598a8a41437123",
       "title": "POOL 18 - INTERNATIONALES TanzFilmFestival BERLIN",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p706_POOL-18---INTERNATIONALES-TanzFilmFestival-BERLIN.html",
       "date_time": "2018-09-15 00:00:00 +0200",
@@ -925,10 +1045,15 @@
         "http://www.dock11-berlin.de//images/BDietl_POOL Kopie_115.jpg",
         "http://www.dock11-berlin.de/images/images/M5e_cezg.jpg",
         "http://www.dock11-berlin.de/images/logos/Sen_KuEu_logo_quer.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "24fec4fe548c4884c40a8873c772a3d9d2eaebedc23bd7dc4e03bbb629584e70",
+      "checksum": "24fec4fe548c4884c40a8873c772a3d9d2eaebedc23bd7dc4e03bbb629584e70",
       "title": "Secret Journey, Stranger Than Paradise",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p710_Secret-Journey--Stranger-Than-Paradise.html",
       "date_time": "2018-09-20 00:00:00 +0200",
@@ -947,10 +1072,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/yosh_347.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "ae97f40599bf55b463fda3a6d90f39d069e21a173089effcb3695676a2b14d94",
+      "checksum": "ae97f40599bf55b463fda3a6d90f39d069e21a173089effcb3695676a2b14d94",
       "title": "Secret Journey, Stranger Than Paradise",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p710_Secret-Journey--Stranger-Than-Paradise.html",
       "date_time": "2018-09-21 00:00:00 +0200",
@@ -969,10 +1099,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/yosh_347.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "c90a65084cfcab904537d970a368f4c646e39163614e7512cadd2b8a88bba43a",
+      "checksum": "c90a65084cfcab904537d970a368f4c646e39163614e7512cadd2b8a88bba43a",
       "title": "Secret Journey, Stranger Than Paradise",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p710_Secret-Journey--Stranger-Than-Paradise.html",
       "date_time": "2018-09-22 00:00:00 +0200",
@@ -991,10 +1126,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/yosh_347.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "b7bb59278d2344b34068bc8bb2fc951020e61724d72e7c9f02ab1ffd650c22d0",
+      "checksum": "b7bb59278d2344b34068bc8bb2fc951020e61724d72e7c9f02ab1ffd650c22d0",
       "title": "Secret Journey, Stranger Than Paradise",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p710_Secret-Journey--Stranger-Than-Paradise.html",
       "date_time": "2018-09-23 00:00:00 +0200",
@@ -1013,10 +1153,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/yosh_347.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "0a59b96dcd4333327c736bac00b7b73de871864568aa5767557cdc9107dea7f8",
+      "checksum": "0a59b96dcd4333327c736bac00b7b73de871864568aa5767557cdc9107dea7f8",
       "title": "KOOK.MONO. schrift spricht",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p707_KOOK-MONO--schrift-spricht.html",
       "date_time": "2018-09-25 00:00:00 +0200",
@@ -1034,10 +1179,15 @@
       "pics": [
         "http://www.dock11-berlin.de//images/martina hefter_592.jpg",
         "http://www.dock11-berlin.de/images/logos/logo_hkf100.gif"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "5796072989f4b4ac08234400d35e672ae0c8468922434794bd30693a81c6758f",
+      "checksum": "5796072989f4b4ac08234400d35e672ae0c8468922434794bd30693a81c6758f",
       "title": "Come as you are # Berlin",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p714_Come-as-you-are---Berlin.html",
       "date_time": "2018-10-04 00:00:00 +0200",
@@ -1054,10 +1204,15 @@
         "http://www.dock11-berlin.de//images/Come as you are_Foto_Bernhard Musil_741_45_769_126.jpg",
         "http://www.dock11-berlin.de/images/images/FondsDaKu_Logo_sw%20Kopie.jpg",
         "http://www.dock11-berlin.de/images/logos/LOFFT_Logo_pos_sw.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "15aca05fed25ee01f8b9ce129b500009753b8d26720dc1903a0a9f676ebfa42b",
+      "checksum": "15aca05fed25ee01f8b9ce129b500009753b8d26720dc1903a0a9f676ebfa42b",
       "title": "Come as you are # Berlin",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p714_Come-as-you-are---Berlin.html",
       "date_time": "2018-10-05 00:00:00 +0200",
@@ -1074,10 +1229,15 @@
         "http://www.dock11-berlin.de//images/Come as you are_Foto_Bernhard Musil_741_45_769_126.jpg",
         "http://www.dock11-berlin.de/images/images/FondsDaKu_Logo_sw%20Kopie.jpg",
         "http://www.dock11-berlin.de/images/logos/LOFFT_Logo_pos_sw.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "c77e2ecfaca9b046e499c49b3a74d1ff8504c96c41c21a0d3c9d2b37c730aade",
+      "checksum": "c77e2ecfaca9b046e499c49b3a74d1ff8504c96c41c21a0d3c9d2b37c730aade",
       "title": "Come as you are # Berlin",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p714_Come-as-you-are---Berlin.html",
       "date_time": "2018-10-06 00:00:00 +0200",
@@ -1094,10 +1254,15 @@
         "http://www.dock11-berlin.de//images/Come as you are_Foto_Bernhard Musil_741_45_769_126.jpg",
         "http://www.dock11-berlin.de/images/images/FondsDaKu_Logo_sw%20Kopie.jpg",
         "http://www.dock11-berlin.de/images/logos/LOFFT_Logo_pos_sw.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "ed50ab4c733d48362ea882a4348d0bf97464a4b3f0ec1b2a7c6f001e60998cc9",
+      "checksum": "ed50ab4c733d48362ea882a4348d0bf97464a4b3f0ec1b2a7c6f001e60998cc9",
       "title": "Come as you are # Berlin",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p714_Come-as-you-are---Berlin.html",
       "date_time": "2018-10-07 00:00:00 +0200",
@@ -1114,10 +1279,15 @@
         "http://www.dock11-berlin.de//images/Come as you are_Foto_Bernhard Musil_741_45_769_126.jpg",
         "http://www.dock11-berlin.de/images/images/FondsDaKu_Logo_sw%20Kopie.jpg",
         "http://www.dock11-berlin.de/images/logos/LOFFT_Logo_pos_sw.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "9c4339910cb4153f0c44f96f08ddb72d502803f85857e0c3ae9d22cb38ce89ae",
+      "checksum": "9c4339910cb4153f0c44f96f08ddb72d502803f85857e0c3ae9d22cb38ce89ae",
       "title": "Infidelity: A love story",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p708_Infidelity--A-love-story.html",
       "date_time": "2018-10-11 00:00:00 +0200",
@@ -1138,10 +1308,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/Infidelity A love story_559.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "55c86523b642611a6cf099cac6d7f38b4a0accf04590e1527708d91be3fa414a",
+      "checksum": "55c86523b642611a6cf099cac6d7f38b4a0accf04590e1527708d91be3fa414a",
       "title": "Infidelity: A love story",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p708_Infidelity--A-love-story.html",
       "date_time": "2018-10-12 00:00:00 +0200",
@@ -1162,10 +1337,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/Infidelity A love story_559.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "07ec794402f756f7ce26258c93a7aa74b76a1002e07f8c4e0522416f27fcc606",
+      "checksum": "07ec794402f756f7ce26258c93a7aa74b76a1002e07f8c4e0522416f27fcc606",
       "title": "Infidelity: A love story",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p708_Infidelity--A-love-story.html",
       "date_time": "2018-10-13 00:00:00 +0200",
@@ -1186,10 +1366,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/Infidelity A love story_559.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "ebadccefd30756b648ed78589815375daee60175c7ff13ddcb880a55dd5e8767",
+      "checksum": "ebadccefd30756b648ed78589815375daee60175c7ff13ddcb880a55dd5e8767",
       "title": "Infidelity: A love story",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p708_Infidelity--A-love-story.html",
       "date_time": "2018-10-14 00:00:00 +0200",
@@ -1210,10 +1395,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/Infidelity A love story_559.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "76a60eebb3ba3f5786a1313ed6b5481196e6b0f0df281bdeba35536952a441b8",
+      "checksum": "76a60eebb3ba3f5786a1313ed6b5481196e6b0f0df281bdeba35536952a441b8",
       "title": "W!O!man MADe",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p711_W-O-man-MADe.html",
       "date_time": "2018-10-19 00:00:00 +0200",
@@ -1239,10 +1429,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/MorvaridK_YukoSolo_300dpi9_343.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "221ca30d9c6e386914027bffc9ea89fed639dd4945a26794d87b9f2354f936e7",
+      "checksum": "221ca30d9c6e386914027bffc9ea89fed639dd4945a26794d87b9f2354f936e7",
       "title": "W!O!man MADe",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p711_W-O-man-MADe.html",
       "date_time": "2018-10-20 00:00:00 +0200",
@@ -1268,10 +1463,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/MorvaridK_YukoSolo_300dpi9_343.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "66ccecb2391560dca89dd922abc7de1e7e90e9b92c05e255bc7ea050ea13914a",
+      "checksum": "66ccecb2391560dca89dd922abc7de1e7e90e9b92c05e255bc7ea050ea13914a",
       "title": "W!O!man MADe",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p711_W-O-man-MADe.html",
       "date_time": "2018-10-21 00:00:00 +0200",
@@ -1297,10 +1497,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/MorvaridK_YukoSolo_300dpi9_343.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "ab197c6492814a0318484f26d1ed056f6517bab86dbe51bfd23f7193d95e7241",
+      "checksum": "ab197c6492814a0318484f26d1ed056f6517bab86dbe51bfd23f7193d95e7241",
       "title": "darwintodarwin",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p709_darwintodarwin.html",
       "date_time": "2018-10-26 00:00:00 +0200",
@@ -1315,10 +1520,15 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/darwintodarwin_859.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     },
     {
-      "check_sum": "85190ff47aa7698044add93406f578271bb44c41e64cede9239f7e9145eb7f45",
+      "checksum": "85190ff47aa7698044add93406f578271bb44c41e64cede9239f7e9145eb7f45",
       "title": "darwintodarwin",
       "url": "http://www.dock11-berlin.de//index.php/cat/1_0/id/p709_darwintodarwin.html",
       "date_time": "2018-10-27 00:00:00 +0200",
@@ -1333,6 +1543,11 @@
       ],
       "pics": [
         "http://www.dock11-berlin.de//images/darwintodarwin_859.jpg"
+      ],
+      "tags": [
+        "dance",
+        "theater",
+        "performance"
       ]
     }
   ]

@@ -16,6 +16,9 @@ module WebToCalendarApi
       end
 
       def self.parse_info(url)
+        puts "Parsing Info: #{url}"
+
+        # puts "Warning: writing fixture!"
         # File.open("#{__dir__}/test/fixtures/#{File.basename(url)}", "w") do |f|
         #   f.write open("#{ROOT_URL}#{url}").read
         # end
@@ -26,10 +29,10 @@ module WebToCalendarApi
         info
       end
 
-      # puts JSON.pretty_generate parse_info("index.php/cat/1_0/id/p709_darwintodarwin.html")
-      # exit 0
 
       def self.parse_pics(url)
+        puts "Parsing Pics: #{url}"
+
         element = Nokogiri::HTML(HTTParty.get("#{ROOT_URL}#{url}"))
         pics = element.css("#content1 p img").map { |element| element.attribute("src") }.map(&:text)
 
@@ -49,11 +52,12 @@ module WebToCalendarApi
 
 
       def self.parse_calendar
+        # puts "Warning: writing fixture!"
         # File.open("#{__dir__}/test/fixtures/c1_Veranstaltungen.html", "w") do |f|
         #   f.write HTTParty.get("#{ROOT_URL}/index.php/cat/c1_Veranstaltungen.html")
         # end
 
-        puts "Parsing Calendar"
+        puts "Parsing Calendar :: #{VENUE}"
 
         page = Nokogiri::HTML(HTTParty.get("#{ROOT_URL}index.php/cat/c1_Veranstaltungen.html"))
 
@@ -116,7 +120,7 @@ module WebToCalendarApi
               "date_time" => date_time,
               "info" => parse_info(url),
               "pics" => parse_pics(url),
-              "tags" => ["dance"]
+              "tags" => ["dance", "theater", "performance"]
             }
           end
         end
