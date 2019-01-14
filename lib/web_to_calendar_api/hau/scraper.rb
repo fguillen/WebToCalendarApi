@@ -66,7 +66,7 @@ module WebToCalendarApi
           "url" => url,
           "date_time" => date_time,
           "info" => ["NOT_IMPLEMENTED"], #parse_info(url),
-          "pics" => ["NOT_IMPLEMENTED"], #parse_pics(url),
+          "pics" => [], #parse_pics(url),
           "tags" => ["theater", "performance", "dance"]
         }
 
