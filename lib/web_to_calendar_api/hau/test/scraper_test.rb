@@ -7,9 +7,9 @@ class WebToCalendarApi::HAU::ScraperTest < Minitest::Test
       body = File.read("#{__dir__}/fixtures/#{filename}")
 
       if filename == "spielplan.html" # The main Calendar
-        stub_request(:get, "https://www.hebbel-am-ufer.de/programm/spielplan/").to_return(:body => body)
+        stub_request(:get, "https://www.hebbel-am-ufer.de/programm/spielplan-tickets/").to_return(:body => body)
       else ## The info pages
-        stub_request(:get, "https://www.hebbel-am-ufer.de/programm/spielplan/event/#{filename}").to_return(:body => body)
+        stub_request(:get, "https://www.hebbel-am-ufer.de/programm/spielplan-tickets/event/#{filename}").to_return(:body => body)
       end
     end
 

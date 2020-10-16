@@ -24,7 +24,7 @@ module WebToCalendarApi
         # end
 
         ## Collection
-        page = Nokogiri::HTML(open("#{ROOT_URL}/programm/spielplan/"))
+        page = Nokogiri::HTML(open("#{ROOT_URL}/programm/spielplan-tickets/"))
 
         elements = page.css("div.performanceInfo")
 
