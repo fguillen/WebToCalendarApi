@@ -23,7 +23,7 @@ module WebToCalendarApi
         #   f.write open("#{ROOT_URL}#{url}").read
         # end
 
-        element = Nokogiri::HTML(HTTParty.get("#{ROOT_URL}#{url}"))
+        element = Nokogiri::HTML(HTTParty.get("#{ROOT_URL}#{url}").body)
         info = element.css("#content1 p").map(&:text).map { |text| text.gsub(Nokogiri::HTML("&nbsp;"), "") }.map(&:strip).select { |text| !text.empty? }
 
         info
@@ -33,7 +33,7 @@ module WebToCalendarApi
       def self.parse_pics(url)
         puts "Parsing Pics: #{url}"
 
-        element = Nokogiri::HTML(HTTParty.get("#{ROOT_URL}#{url}"))
+        element = Nokogiri::HTML(HTTParty.get("#{ROOT_URL}#{url}").body)
         pics = element.css("#content1 p img").map { |element| element.attribute("src") }.map(&:text)
 
         # Transform
@@ -59,10 +59,10 @@ module WebToCalendarApi
 
         puts "Parsing Calendar :: #{VENUE}"
 
-        page = Nokogiri::HTML(HTTParty.get("#{ROOT_URL}index.php/cat/c1_Veranstaltungen.html"))
+        page = Nokogiri::HTML(HTTParty.get("#{ROOT_URL}index.php/cat/c1_Veranstaltungen.html").body)
 
-        titles = page.css("#content1 a strong").map(&:text).map(&:strip).select { |text| !text.empty? and text != "ticket@dock11-berlin.de" } # titles
-        links = page.css("#content1 a strong").map { |element| element.parent.attribute("href").text }.map(&:strip).select { |link| link != "mailto:ticket@dock11-berlin.de" } # links to info
+        titles = page.css("#content1 a strong").map(&:text).map(&:strip).select { |text| !text.empty? && text != "ticket@dock11-berlin.de" && !text.downcase.match(".pdf") } # titles
+        links = page.css("#content1 a strong").map { |element| element.parent.attribute("href").text }.map(&:strip).select { |link| link != "mailto:ticket@dock11-berlin.de" && !link.match(".pdf") } # links to info
         dates = page.css("#content1 td:nth-child(1) strong").map(&:text).map(&:strip).select { |text| text.match(/^\d\d/)} # dates
         hours = page.css("td:nth-child(2) strong").map(&:text).map(&:strip).select { |text| text.match("Uhr")} # hours
 
