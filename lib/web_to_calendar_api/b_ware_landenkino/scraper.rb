@@ -8,82 +8,86 @@ module WebToCalendarApi
   module BWareLandenkino
     module Scraper
       VENUE = "b-ware! ladenkino"
-      ROOT_URL = "http://ladenkino.de/"
+      ROOT_URL = "https://www.kinoheld.de/ajax/getShowsForCinemas?cinemaIds[]=108&cinemaIds[]=1657&lang=en"
       TIME_ZONE = "Berlin"
 
       def self.run
         parse_calendar
       end
 
-      def self.parse_info(url)
-        puts "Parsing Info: #{url}"
-
-        # puts "Warning: writing fixture!"
-        # File.open("#{__dir__}/test/fixtures/#{File.basename(url)}.html", "w") do |f|
-        #   f.write open(url).read
-        # end
-
-        element = Nokogiri::HTML(open(url))
-        info = element.css(".entry-content p").map(&:text).map(&:strip).select { |text| !text.empty? }
-
-        info
-      rescue OpenURI::HTTPError => e
-        puts "ERROR on parsing URL: #{url}, #{e.message}"
-
-        return ["ERROR parsing this Information"]
+      def self.get_program
+        JSON.parse(HTTParty.get(ROOT_URL).body)
       end
 
       def self.parse_calendar
         puts "Parsing Calendar :: #{VENUE}"
 
-        # puts "Warning: writing fixture!"
-        # File.open("#{__dir__}/test/fixtures/index.html", "w") do |f|
-        #   f.write HTTParty.get(ROOT_URL)
-        # end
+        program = get_program
 
-        ## Collection
-        page = Nokogiri::HTML(open(ROOT_URL))
+        puts "Warning: writing fixture!"
+        File.open("#{__dir__}/test/fixtures/program.json", "w") do |f|
+          f.write JSON.pretty_generate program
+        end
 
-        elements = page.css("table#tablepress-13 tbody tr")
+        ## Movies
+        elements = program["shows"]
 
         results =
           elements.map do |element|
-            parse_calendar_element(element)
+            parse_calendar_element(element, program)
           end
 
         results
 
         result = {
           "title" => VENUE,
-          "calendar_url" => "#{ROOT_URL}/index.php/monatsprogramm",
+          "calendar_url" => "#{ROOT_URL}",
           "calendar_elements" => results
         }
 
         result
       end
 
-      def self.parse_calendar_element(calendar_element)
-        title = calendar_element.css("td.column-3").text
-        puts "Parsing: #{title}"
-        url = calendar_element.css("td.column-4 a").attribute("href")
-        date = calendar_element.css("td.column-1").text.strip
-        date = date.split(" ")[0]
-        date = date + "." + Time.now.year.to_s
-        date = Date.parse(date)
+      def self.parse_calendar_element(calendar_element, program)
+        movieId = calendar_element["movieId"]
 
-        hour = calendar_element.css("td.column-2").text.strip
+        puts "Parsing: #{movieId}/#{calendar_element["beginning"]["isoFull"]}"
 
-        date_time = Time.parse("#{date.to_s} #{hour} #{TIME_ZONE}")
+        movie_details = program["movies"][movieId]
 
-        checksum = Digest::SHA2.hexdigest("#{VENUE}#{title}#{url}#{date_time}")
+        if movie_details.nil?
+          puts "Not found details for movie: #{movieId}"
+          movie_details = {}
+        end
+
+        title = calendar_element["name"]
+        url = "https://ladenkino.de/"
+        date_time = Time.parse(calendar_element["beginning"]["isoFull"])
+        checksum = Digest::SHA2.hexdigest("#{VENUE}#{movieId}#{date_time}")
+
+        if !movie_details["description"].nil?
+          info = movie_details["description"].split(". ")
+        end
+
+        pics = []
+
+        if !movie_details["largePosterImage"].nil?
+          pics << movie_details["largePosterImage"].first["url"]
+        end
+
+        if !movie_details["largeSceneImages"].nil?
+          pics << movie_details["largeSceneImages"].map { |e| e.first["url"] }
+        end
+
+        pics = pics.flatten.compact
 
         result = {
           "checksum" => checksum,
           "title" => title,
           "url" => url,
           "date_time" => date_time,
-          "info" => parse_info(url),
-          "pics" => [], # parse_pics(url),
+          "info" => info,
+          "pics" => pics,
           "tags" => ["cinema"]
         }
 

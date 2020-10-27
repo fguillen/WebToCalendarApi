@@ -26,7 +26,7 @@ module WebToCalendarApi
         ## Collection
         page = Nokogiri::HTML(open("#{ROOT_URL}/programm/spielplan-tickets/"))
 
-        elements = page.css("div.performanceInfo")
+        elements = page.css("styled-cell content")
 
         results =
           elements.map do |element|
@@ -45,7 +45,7 @@ module WebToCalendarApi
       end
 
       def self.parse_calendar_element(calendar_element)
-        title = calendar_element.css("h2.stdEl").text
+        title = calendar_element.css("h3, h4").join(" - ")
         puts "Parsing: #{title}"
 
         url = calendar_element.css("h2.stdEl a").attribute("href").text

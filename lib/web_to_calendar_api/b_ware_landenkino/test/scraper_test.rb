@@ -3,15 +3,8 @@ require "webmock/minitest"
 
 class WebToCalendarApi::BWareLandenkino::ScraperTest < Minitest::Test
   def test_run
-    Dir.children("#{__dir__}/fixtures").each do |filename|
-      body = File.read("#{__dir__}/fixtures/#{filename}")
-
-      if filename == "index.html" # The main Calendar
-        stub_request(:get, "http://ladenkino.de").to_return(:body => body)
-      else ## The info pages
-        stub_request(:get, "http://ladenkino.de/#{filename.gsub(".html", "")}").to_return(:body => body)
-      end
-    end
+    body = File.read("#{__dir__}/fixtures/program.json")
+    stub_request(:get, "https://www.kinoheld.de/ajax/getShowsForCinemas?cinemaIds[]=108&cinemaIds[]=1657&lang=en").to_return(:body => body)
 
     result = JSON.pretty_generate WebToCalendarApi::BWareLandenkino::Scraper.run
 
