@@ -2,1195 +2,846 @@
   "title": "HAU",
   "calendar_url": "https://www.hebbel-am-ufer.de/programm/spielplan/",
   "calendar_elements": [
-    {
-      "checksum": "c7dd6b34af33803f552e29680d3b463d3c8595498dff09b292a91cf01f1b32fc",
-      "title": "STREB Extreme Action",
-      "url": "http://bit.ly/2y7mb1u",
-      "date_time": "2018-08-11 13:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "48d29f88a5b54297ae15f3653919a281a55cd64e1d403ba8d0f59fc28fbd7fcc",
-      "title": "STREB Extreme Action",
-      "url": "http://bit.ly/2y7mb1u",
-      "date_time": "2018-08-11 16:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "3b3590218e4a665d5fedd5d7817956db89a503887492e9743093feab321fb385",
-      "title": "Ola Maciejewska",
-      "url": "http://bit.ly/2sSuYiP",
-      "date_time": "2018-08-11 17:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "a9590333c363c040c4e1197c9f6fa13fbf8d51c903b96d677808c53e029bf577",
-      "title": "Björn Säfsten",
-      "url": "http://bit.ly/2LGrCXd",
-      "date_time": "2018-08-11 17:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "eb2b21bf0450cdc9c89191d08b093e12a0017fb316b7b5fb8dc4fe28f572dc33",
-      "title": "Thiago Granato",
-      "url": "http://bit.ly/2t3ushc",
-      "date_time": "2018-08-11 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "4a0316ce204eff1909e999fdce297a26b53ae37d9403f0272df608a2bb859c52",
-      "title": "Ballet de l’Opéra de Lyon",
-      "url": "http://bit.ly/2HFCPoB",
-      "date_time": "2018-08-11 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "b1d963b883c36356679bb1ef05a0060e3bde8a1d2bd89603a31db4f072a2bc0e",
-      "title": "La Veronal",
-      "url": "http://bit.ly/2sRxxBU",
-      "date_time": "2018-08-11 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "0101e850e048b36ea3ba7626156cc3cf279907ea0aa467f7d61d581ee46fcac4",
-      "title": "THE AGENCY",
-      "url": "http://bit.ly/2LIlA8E",
-      "date_time": "2018-08-11 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "f3b6a6362e131343dcf5e77ac42e90d4b8ed18caad5104febcf75cad962a9b89",
-      "title": "Thiago Granato",
-      "url": "http://bit.ly/2t3ushc",
-      "date_time": "2018-08-12 17:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "8d243b39850ceb4deead4c2360bfaee93cdb44687be891f6cd7c53deeeace86b",
-      "title": "Björn Säfsten",
-      "url": "http://bit.ly/2LGrCXd",
-      "date_time": "2018-08-12 17:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "421690468560f437eec5151c2e108c650b1b86a23d8f92bdf67f21bec588df86",
-      "title": "Ola Maciejewska",
-      "url": "http://bit.ly/2sSuYiP",
-      "date_time": "2018-08-12 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "854222495e027d55de4f41d4cc644e796619e7c335e56d49886ef61ff159c592",
-      "title": "Ballet de l’Opéra de Lyon",
-      "url": "http://bit.ly/2HFCPoB",
-      "date_time": "2018-08-12 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "1e745d23306366e13642a498b83a444d7d63b84936efa3a60115d1486c75e2a2",
-      "title": "La Veronal",
-      "url": "http://bit.ly/2sRxxBU",
-      "date_time": "2018-08-12 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "8a90547ebba6f08060b686acbec32c2f34982a07ef65de67ab5fa5943f81b37d",
-      "title": "THE AGENCY",
-      "url": "http://bit.ly/2LIlA8E",
-      "date_time": "2018-08-12 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "c0e853717405537eb769d3db509f137f500f204c59a2d0036e197db07d6483fb",
-      "title": "Björn Säfsten",
-      "url": "http://bit.ly/2LGrCXd",
-      "date_time": "2018-08-13 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "ddbfab30b1d846e71eeaeb6f7e87e37182bf692d946eeced99d6dc76f2d551b9",
-      "title": "Thiago Granato",
-      "url": "http://bit.ly/2t3ushc",
-      "date_time": "2018-08-13 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "2882c7f23bad4a8a9c3beb5c692f8432de0a3ee3958022adfaa0d3281a23a1ee",
-      "title": "Thiago Granato",
-      "url": "http://bit.ly/2t3ushc",
-      "date_time": "2018-08-14 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "053925ab2707e257954d3a98aeccbb535f311db3af165de1b87811ae6d283214",
-      "title": "Nora Chipaumire",
-      "url": "http://bit.ly/2JGl7mP",
-      "date_time": "2018-08-15 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "a235341dd3e786298ce6c9cb68afe2c1f1a342ba8a6d8cf999ac94a01d87783c",
-      "title": "Isabelle Schad",
-      "url": "http://bit.ly/2HHL9nN",
-      "date_time": "2018-08-16 18:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "e627908625bcb8d69d13ee9ffa597f4fb134f066aaae547636efa54e6475ae7c",
-      "title": "Nora Chipaumire",
-      "url": "http://bit.ly/2JGl7mP",
-      "date_time": "2018-08-16 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "6937a2b6e3b9062fc3cbbf7c6d5758de1291e4224edafbe3db1c95faec59d353",
-      "title": "Maija Hirvanen",
-      "url": "http://bit.ly/2y3fAFx",
-      "date_time": "2018-08-16 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "e93c2aa57f42188280083131cdeb15333fad9a2c0330214b6eccbe3b870d8055",
-      "title": "Isabelle Schad",
-      "url": "http://bit.ly/2HHL9nN",
-      "date_time": "2018-08-17 18:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "295f5d82398ae3a25eda5a74c76d5dd3075f22606e56bb2f6bc4ea6954857833",
-      "title": "Maija Hirvanen",
-      "url": "http://bit.ly/2y3fAFx",
-      "date_time": "2018-08-17 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "5ac68ed7c63212865f3d508fd707ed5ed5f1454bff032d32e5eaa3bc87e5dc74",
-      "title": "Company Wayne McGregor",
-      "url": "http://bit.ly/2MiWkH0",
-      "date_time": "2018-08-17 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "c59b8a70bb2dd52bebb0404862c9ac618d0f85786bd17637728911bf994ed4cb",
-      "title": "Nora Chipaumire",
-      "url": "http://bit.ly/2JGl7mP",
-      "date_time": "2018-08-17 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "8ecd7375a6ae25a897c897bc058f63c885eb7161154e4c7e36820ea423432717",
-      "title": "Voetvolk / Lisbeth Gruwez",
-      "url": "http://bit.ly/2MkB6Za",
-      "date_time": "2018-08-17 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "cf50bc4d11180aa8a44d8fb92e6a7f4f752cb8fb75288060d01647911ac665a3",
-      "title": "Isabelle Schad",
-      "url": "http://bit.ly/2HHL9nN",
-      "date_time": "2018-08-18 15:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "f5fad20bd1ad7c6dc9c7980ca3f610eb42c29a0efffa917ca4f101e2735a98a7",
-      "title": "Maija Hirvanen",
-      "url": "http://bit.ly/2y3fAFx",
-      "date_time": "2018-08-18 17:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "3cb48922d2ee120bafff9a8a630ea879436bb7899647d9ba4037b710f3a62161",
-      "title": "Voetvolk / Lisbeth Gruwez",
-      "url": "http://bit.ly/2MkB6Za",
-      "date_time": "2018-08-18 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "5941b536b417420eece366fe6e1f8300e7c48a541af6eff247cd0a3c12cf199a",
-      "title": "Company Wayne McGregor",
-      "url": "http://bit.ly/2MiWkH0",
-      "date_time": "2018-08-18 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "e289168f4cfc339dbeb2e39d8a1d700b8a784d4701c4169b4d0b68281919d94a",
-      "title": "Robyn Orlin",
-      "url": "http://bit.ly/2Jxdy5K",
-      "date_time": "2018-08-18 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "5f378a28156216a66eae88f4b4f7f2b9a140d5392b07033555214102f117e60e",
-      "title": "Isabelle Schad",
-      "url": "http://bit.ly/2HHL9nN",
-      "date_time": "2018-08-19 15:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "200392fdbcaf937249b731ea589477fe71f041e0f99e534e316be57ebdd5ca50",
-      "title": "Company Wayne McGregor",
-      "url": "http://bit.ly/2MiWkH0",
-      "date_time": "2018-08-19 17:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "737c60278f65a359699a367d792d5fd6288c0b363fc0dca0e5f46f159e86b486",
-      "title": "Robyn Orlin",
-      "url": "http://bit.ly/2Jxdy5K",
-      "date_time": "2018-08-19 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "5bd6c328debc1e5a651cf205b1ef91d8e26ca6b9389fccee5b3e85a3e04b927f",
-      "title": "Voetvolk / Lisbeth Gruwez",
-      "url": "http://bit.ly/2MkB6Za",
-      "date_time": "2018-08-19 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "ec1f452168066c60782a54e28c46bb7ac290bfbdaca40268880b21b140ed8872",
-      "title": "Aydin Teker",
-      "url": "http://bit.ly/2Jwdrr8",
-      "date_time": "2018-08-22 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "ea8f3f3e62212d8666aee0c264a79013e495c13e3dbe9093638e5d8670dc0895",
-      "title": "Aydin Teker",
-      "url": "http://bit.ly/2Jwdrr8",
-      "date_time": "2018-08-23 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "8bc9d0abbd26c396153f794fcce9f81541931b00212ace5d416bbbc1298f02ec",
-      "title": "Nick Power",
-      "url": "http://bit.ly/2Mj7Bai",
-      "date_time": "2018-08-23 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "265fd7a8a54021305ba1fdc3883246feff85214c1ac37012735c9c78f4a08972",
-      "title": "Euripides Laskaridis / OSMOSIS",
-      "url": "http://bit.ly/2JPPNFe",
-      "date_time": "2018-08-23 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "8b11b5ccc68cd3a05d723f4aead4abf67feb62ff705382e76b60cc02293adfba",
-      "title": "Adam Linder",
-      "url": "http://bit.ly/2sQB830",
-      "date_time": "2018-08-24 16:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "2cfdcf1a0b8171bcf4189faafe69b881286aae0eafbaeef15d5a0e03898101f3",
-      "title": "Aydin Teker",
-      "url": "http://bit.ly/2Jwdrr8",
-      "date_time": "2018-08-24 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "3f8bf0742e7074c1b83e5c3a9a1b40e860c0e3c6cc1d58111b78c6e880d14159",
-      "title": "Nick Power",
-      "url": "http://bit.ly/2Mj7Bai",
-      "date_time": "2018-08-24 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "b92bcda04195c266e92659442973af5e55bba397a108db90fdef73557fe69448",
-      "title": "Euripides Laskaridis / OSMOSIS",
-      "url": "http://bit.ly/2JPPNFe",
-      "date_time": "2018-08-24 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "1d49d1faa823e3a0bee2f19f3651d884ab5f7ff708de9dbb16b3105ebab6ce8a",
-      "title": "Alexandra Bachzetsis",
-      "url": "http://bit.ly/2JPIVrE",
-      "date_time": "2018-08-24 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "f7204b2134289ece8995e74ce83d3a8fae5e1d3fa3d1fca3a06b6bc9d998dc13",
-      "title": "Adam Linder",
-      "url": "http://bit.ly/2sQB830",
-      "date_time": "2018-08-25 14:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "27c56e0ac88d03dfbb90b87f0907fddf8697c90d10a0a2200b0ef1160e5705dc",
-      "title": "Aydin Teker",
-      "url": "http://bit.ly/2Jwdrr8",
-      "date_time": "2018-08-25 17:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "d9dda1e90a1c9b3910f59fea1dcb16f640e9f8829dc01d66e1e67bc5c8c5b31b",
-      "title": "Nick Power",
-      "url": "http://bit.ly/2Mj7Bai",
-      "date_time": "2018-08-25 17:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "53c7015e9af875894b69b8302aa159a35549f433e3b56b75af850b1e5c8471a6",
-      "title": "Euripides Laskaridis / OSMOSIS",
-      "url": "http://bit.ly/2JPPNFe",
-      "date_time": "2018-08-25 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "4e83fcac90c6ffc603cf8670eda1a3c9aef03d4270dcfb3b5de72734dfe4423b",
-      "title": "Big Dance Theater",
-      "url": "http://bit.ly/2HIxgpk",
-      "date_time": "2018-08-25 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "9b2df49aa33c3b97e5fbb1ed70151ef454d839c48e23592a8859033e49f60f5f",
-      "title": "Compagnie Käfig",
-      "url": "http://bit.ly/2HLLYMe",
-      "date_time": "2018-08-25 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "fa11254eab12d67e369e43080515b87d29218d0fd121f5f04df645cd75349d8e",
-      "title": "Constanza Macras / Dorkypark",
-      "url": "/programm/spielplan/constanza-macras-chatsworth/3875/",
-      "date_time": "2018-08-25 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "3473f1c8a58e7b6b0a3a33986203757421e02f0b3adb88910797626c377a797a",
-      "title": "Paul Lazar",
-      "url": "http://bit.ly/2t1YqCd",
-      "date_time": "2018-08-25 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "2666bfb15584bc03b8a51a164c2ad35160e9abf64961bc70ad8cc7e2bae9e12a",
-      "title": "Alexandra Bachzetsis",
-      "url": "http://bit.ly/2JPIVrE",
-      "date_time": "2018-08-25 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "78ad7cdffdb5b3659b4c71b1c0e5c7be3a0669a7bb6bb917fbb4c77e6e3dfbd7",
-      "title": "Adam Linder",
-      "url": "http://bit.ly/2sQB830",
-      "date_time": "2018-08-26 14:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "c9efbd0e1605907595a5dd78366cdb2ffb77f920c592a92a2be13924841a5e52",
-      "title": "Compagnie Käfig",
-      "url": "http://bit.ly/2HLLYMe",
-      "date_time": "2018-08-26 15:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "6535fc08631a7ac8fa9fd19979aec02a22efe6212ca614b1e99634e2b7723494",
-      "title": "Constanza Macras / Dorkypark",
-      "url": "/programm/spielplan/constanza-macras-chatsworth/3876/",
-      "date_time": "2018-08-26 17:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "f75549cd173ff924db549a11c565ee76f444f7a56fa1ca7c5ace83627d90a03b",
-      "title": "Big Dance Theater",
-      "url": "http://bit.ly/2HIxgpk",
-      "date_time": "2018-08-26 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "633c11a373a31b0c2eaf6f1492ee88341d46ba8c383a5f7b2d61f52d448ecf31",
-      "title": "Alexandra Bachzetsis",
-      "url": "http://bit.ly/2JPIVrE",
-      "date_time": "2018-08-26 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "040088a06bee48e13bb7b6e5a08d288b62d4f148a44f00915c36fc4122df94f4",
-      "title": "Paul Lazar",
-      "url": "http://bit.ly/2t1YqCd",
-      "date_time": "2018-08-26 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "84167b11bc6b8e7d6d76c9daac7a67998813fb2057fe8ccdfe73c899267cf709",
-      "title": "Bruno Beltrão / Grupo de Rua",
-      "url": "http://bit.ly/2sSmIiV",
-      "date_time": "2018-08-28 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "3e38db930c521000dca0ec15a168dbd4ae4206ed4e2b79779d9e9ff3740f2d2a",
-      "title": "Bruno Beltrão / Grupo de Rua",
-      "url": "http://bit.ly/2sSmIiV",
-      "date_time": "2018-08-29 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "b85a522e94ffb24ad1fadc3ce195f283539cdac669183c5986f1e748a41ba19c",
-      "title": "Silvia Gribaudi",
-      "url": "http://bit.ly/2Jvmp7S",
-      "date_time": "2018-08-29 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "21849dc7395e2e8896c524305f4905ee0b40a3dbca99ca50764c3b4de0ffb61d",
-      "title": "Silvia Gribaudi",
-      "url": "http://bit.ly/2Jvmp7S",
-      "date_time": "2018-08-30 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "dd1c766550e762e1f2a7658d3b30db506e1b8ca6fdb174c053ba2f55ded09979",
-      "title": "Felix Mathias Ott & Bahar Temiz",
-      "url": "http://bit.ly/2JJ7uGJ",
-      "date_time": "2018-08-30 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "2efd4e4a2ba11e21475f578cc35d1c7fb99ad9e6ab0242a8601e3233e5bd4c2a",
-      "title": "Noé Soulier",
-      "url": "http://bit.ly/2y5SbmI",
-      "date_time": "2018-08-30 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "ff4ec69bede46a6ae9bebffc099d1fa4640a816e5e47eed407d4b57e35b0a34c",
-      "title": "Silvia Gribaudi",
-      "url": "http://bit.ly/2Jvmp7S",
-      "date_time": "2018-08-31 17:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "98d4025bd2d3a9083dc3f48496988e6ea0820aef5ddb6d3635df52cae779835a",
-      "title": "Mal Pelo",
-      "url": "http://bit.ly/2JCDFUY",
-      "date_time": "2018-08-31 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "2cff5b151f60d18e51cfe19400d2127153d729aa2b13705af958d10826fcaae3",
-      "title": "fABULEUS / Michiel Vandevelde",
-      "url": "http://bit.ly/2LHYEGu",
-      "date_time": "2018-08-31 19:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "45dcabc5d913c0532e6807833ec364ebefa1b358a7a24e8323fdf9c3c4407e46",
-      "title": "Felix Mathias Ott & Bahar Temiz",
-      "url": "http://bit.ly/2JJ7uGJ",
-      "date_time": "2018-08-31 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    },
-    {
-      "checksum": "4a99c4c9de69c1b6b7e36212023f3d8cb2991d4ce68499b2297638bf8a0f055c",
-      "title": "Tanztheater Wuppertal Pina Bausch / Alan Lucien Øyen",
-      "url": "http://bit.ly/2sPR858",
-      "date_time": "2018-08-31 21:00:00 +0200",
-      "info": [
-        "NOT_IMPLEMENTED"
-      ],
-      "pics": [
-        "NOT_IMPLEMENTED"
-      ],
-      "tags": [
-        "theater",
-        "performance",
-        "dance"
-      ]
-    }
+    [
+      {
+        "checksum": "b510709d5bd99bf8139e68f6c4288678ec3114c996aeee347caad25702bf0020",
+        "title": "<h3>machina eX</h3>\n",
+        "url": "/programm/pdetail/life-goes-on",
+        "date_time": "2022-11-02 17:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "09f539f5137a3437c1bfe312f0efaf30f9353e6528ef18dd071639cf44b0e583",
+        "title": "<h3>Berlinale</h3>\n",
+        "url": "/programm/pdetail/berlinale-schaufenster-im-kalten-krieg-neue-forschungen-zur-geschichte-der-berlinale-in-der-aera-alfred-bauer-1951-1976",
+        "date_time": "2022-11-02 18:30:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "4d4a1f6f1f708e00b7feb561585c0ff7a48969f610ce138df5cf94e0180ad617",
+        "title": "<h3>machina eX</h3>\n",
+        "url": "/programm/pdetail/life-goes-on",
+        "date_time": "2022-11-02 20:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "31807e4ba73a390bd77079ac329a3417f64de98301749b07798d936d41817235",
+        "title": "<h3>machina eX</h3>\n",
+        "url": "/programm/pdetail/life-goes-on",
+        "date_time": "2022-11-03 17:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "813d51fd72d16f1e05fc221bd9d0c601494a7adafc0f268a0e4653cf44311cb2",
+        "title": "<h3>The Mycological Twist / HAU</h3>\n",
+        "url": "/programm/pdetail/the-mycological-twist-hau-quadrat-sampling-e-ecologies-2-farming-simulator-brandenburg",
+        "date_time": "2022-11-03 17:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "189f95424a94e198be679c18c2ac1441931585271f2b9e740b1b6418dd50f45f",
+        "title": "<h3>Nature Theater of Oklahoma</h3>\n",
+        "url": "/programm/pdetail/nature-theater-of-oklahoma-burt-turrido-an-opera",
+        "date_time": "2022-11-03 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "349b4adf4d73e6583f2e4327296e2eb9dc6b0736ad2e515dd482ca22446f427e",
+        "title": "<h3>machina eX</h3>\n",
+        "url": "/programm/pdetail/life-goes-on",
+        "date_time": "2022-11-03 20:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "0a84f378f04635e3e617dfdc1b2e1b851ba14d16f507f81c68905ef96b0b209e",
+        "title": "<h3>machina eX</h3>\n",
+        "url": "/programm/pdetail/life-goes-on",
+        "date_time": "2022-11-04 17:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "6fa916b31264c5dc000f9ef080fa33a79c8357ed14bea672e85b9fdbdfd0fad6",
+        "title": "<h3>The Mycological Twist / HAU</h3>\n",
+        "url": "/programm/pdetail/the-mycological-twist-hau-quadrat-sampling-e-ecologies-2-farming-simulator-brandenburg",
+        "date_time": "2022-11-04 17:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "9705dc443642203d799afd0dceb336467c25ef8bc9ec4b64a23ab0e39e385bee",
+        "title": "<h3>Nature Theater of Oklahoma</h3>\n",
+        "url": "/programm/pdetail/nature-theater-of-oklahoma-burt-turrido-an-opera",
+        "date_time": "2022-11-04 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "57c731c3d7a39d53cfc072f8baca331f19fcd0ec615ed30e06f281259601f508",
+        "title": "<h3>machina eX</h3>\n",
+        "url": "/programm/pdetail/life-goes-on",
+        "date_time": "2022-11-04 20:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "12f036de24330dd29a493464633d7c53d843d88f30a1cc95d52a74ddf3af2dae",
+        "title": "<h3>Verstehen verboten!?</h3>\n",
+        "url": "/programm/pdetail/verstehen-verboten-ein-nachmittag-fuer-hans-thies-lehmann",
+        "date_time": "2022-11-05 16:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "19e8cca8fc8bfffe38c799b9bd3708bd4019a68293613acc52435903eb6003b7",
+        "title": "<h3>machina eX</h3>\n",
+        "url": "/programm/pdetail/life-goes-on",
+        "date_time": "2022-11-05 17:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "e4e0be10ec3cf33a8c86d07c0031982fff364f81c960a6f09276494712135174",
+        "title": "<h3>The Mycological Twist / HAU</h3>\n",
+        "url": "/programm/pdetail/the-mycological-twist-hau-quadrat-sampling-e-ecologies-2-farming-simulator-brandenburg",
+        "date_time": "2022-11-05 17:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "3d6162e71f50368b8dc51620092846bc6e78037c6e78222ffea6029a229d9ca6",
+        "title": "<h3>Nature Theater of Oklahoma</h3>\n",
+        "url": "/programm/pdetail/nature-theater-of-oklahoma-burt-turrido-an-opera",
+        "date_time": "2022-11-05 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "5b256efe83ca6d5c5ab8288f153e2be76d99706ee552d273f3867d66b6bee973",
+        "title": "<h3>machina eX</h3>\n",
+        "url": "/programm/pdetail/life-goes-on",
+        "date_time": "2022-11-05 20:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "089de1699c05ea9b804a1cdfa040ce97432c051d66d03a4a88cebb6dcbd0a9cf",
+        "title": "<h3>The Mycological Twist / HAU</h3>\n",
+        "url": "/programm/pdetail/the-mycological-twist-hau-quadrat-sampling-e-ecologies-2-farming-simulator-brandenburg",
+        "date_time": "2022-11-06 17:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "9204968a8563d865405fa746ac2723d1bb66c0ba635e818c006dde3508a10c2f",
+        "title": "<h3>machina eX</h3>\n",
+        "url": "/programm/pdetail/life-goes-on",
+        "date_time": "2022-11-06 17:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "e2a911906295e4046995160b8afe5ae6efbce81d736622e6f3c3d681d25e57b6",
+        "title": "<h3>The Mycological Twist / HAU</h3>\n",
+        "url": "/programm/pdetail/the-mycological-twist-hau-quadrat-sampling-e-ecologies-2-farming-simulator-brandenburg",
+        "date_time": "2022-11-06 20:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "9d9537fb39f59efa1e78db3d9d9d63ae7ca115e0a90ac68b9cb2553d2c6e40e9",
+        "title": "<h3>machina eX</h3>\n",
+        "url": "/programm/pdetail/life-goes-on",
+        "date_time": "2022-11-06 20:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "4439247e43e9b154905428c8ea0169af451ec46788e3996dea1812c791118c7d",
+        "title": "<h3>Simone Aughterlony &amp; Julia Häusermann</h3>\n",
+        "url": "/programm/pdetail/simone-aughterlony-julia-haeusermann-no-gambling",
+        "date_time": "2022-11-09 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "3c16eb498ef5aa41917821dc4f6ec18872dec46c0834801c23a4763bbdacc53c",
+        "title": "<h3>Monster Truck &amp; Plattform-K</h3>\n",
+        "url": "/programm/pdetail/monster-truck-plattform-k-das-narrenschiff",
+        "date_time": "2022-11-09 20:30:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "4e278fc685a433674884c1c0d5b4ba89cc3a2a8a118cd854989ba57cc9662720",
+        "title": "<h3>Planet Hora</h3>\n",
+        "url": "/programm/pdetail/planet-hora-eine-space-odyssee-in-die-tiefen-des-universums-der-arbeit",
+        "date_time": "2022-11-10 17:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "b3a6fbba85c3dff3dc57bd177af2022ee5f9f05757ef05d5fabd0e547422411c",
+        "title": "<h3>Simone Aughterlony &amp; Julia Häusermann</h3>\n",
+        "url": "/programm/pdetail/simone-aughterlony-julia-haeusermann-no-gambling",
+        "date_time": "2022-11-10 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "bb35726836c43857697027c82d4379e49214c0fcd97ff5bbe52d64f1c9fd5039",
+        "title": "<h3>Monster Truck &amp; Plattform-K</h3>\n",
+        "url": "/programm/pdetail/monster-truck-plattform-k-das-narrenschiff",
+        "date_time": "2022-11-10 20:30:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "3b4eb8a9288bd2ce77ff9b8ea5c476ddd21de88b40c2cd857984e5bbd9faa862",
+        "title": "<h3>Saša Asentić / Alexandre Achour /  Tanzerei / Per.Art &amp; Guests</h3>\n",
+        "url": "/programm/pdetail/dis-move",
+        "date_time": "2022-11-11 17:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "26ad2bfec559e79367850112e32dbd26b64c19588fce73d3cab43bd6f3b68898",
+        "title": "<h3>Shut up and Sign*Speak</h3>\n",
+        "url": "/programm/pdetail/shut-up-and-signspeak-filmportraet",
+        "date_time": "2022-11-12 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "e5a35caad96f1eedd3eb99122616dd152a75513e51571416ebf58ff7af8d597c",
+        "title": "<h3>Natalija Vladisavljević &amp; Collaborators</h3>\n",
+        "url": "/programm/pdetail/natalija-vladisavljevic-collaborators-dance-in-the-21st-century",
+        "date_time": "2022-11-13 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "8070042cafa9c1ff0df66ccd1a9481512f416767c7d3f61ce847e067e1e673b9",
+        "title": "<h3>machina eX</h3>\n",
+        "url": "/programm/pdetail/life-goes-on",
+        "date_time": "2022-11-14 14:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "8b1dfeb09290338c62dff5f97f6c8a3e6ded0c09bb628c95c823e71916761446",
+        "title": "<h3>Natalija Vladisavljević &amp; Collaborators</h3>\n",
+        "url": "/programm/pdetail/natalija-vladisavljevic-collaborators-dance-in-the-21st-century",
+        "date_time": "2022-11-14 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "095f8c78d02e7239b65dd4dd6087e3dd26be5f611da7b4f4e9f6bd5745c2aba9",
+        "title": "<h3>Michael Turinsky</h3>\n",
+        "url": "/programm/pdetail/michael-turinsky-soiled",
+        "date_time": "2022-11-14 20:30:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "b9fc94bf8e5f93d10b134e4c2ebd27b9019f5486a1eba2156911a12f742e15cf",
+        "title": "<h3>Michael Turinsky</h3>\n",
+        "url": "/programm/pdetail/michael-turinsky-soiled",
+        "date_time": "2022-11-15 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "47f36296d60bd87cbb73233e5f414079b6518d6eed1c07e31b641cd2224de473",
+        "title": "<h3>Precarious Gestures</h3>\n",
+        "url": "/programm/pdetail/precarious-gestures-a-conversation-about-disability-ecology-and-somatic-practice",
+        "date_time": "2022-11-16 20:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "3a4f699cf0258c11557a2e770b262d088f8f2f5eb1995d42949f804ab36c35d8",
+        "title": "<h3>On Violence</h3>\n",
+        "url": "/programm/pdetail/on-violence-4-abolitionismus",
+        "date_time": "2022-11-17 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "767a4a3cae052760fe28f9e9474fdd21265da907534b26f5e6adadcac9aa6057",
+        "title": "<h3>Cia Vero Cendoya</h3>\n",
+        "url": "/programm/pdetail/cia-vero-cendoya-bogumer-or-children-of-lunacharski",
+        "date_time": "2022-11-17 20:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "2875c53afb669cdc819c88f1d75e08d4ba2158a8f6979a0f6cb1e2373c4e1294",
+        "title": "<h3>Meine Damen und Herren feat. SKART &amp; Masters of the Universe</h3>\n",
+        "url": "/programm/pdetail/meine-damen-und-herren-feat-skart-masters-of-the-universe-welt-ohne-uns",
+        "date_time": "2022-11-18 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "b29fd2b0852e38b2819441acaf0de9f561ee51e6bf4c5752697f30c1a8194a07",
+        "title": "<h3>Cia Vero Cendoya</h3>\n",
+        "url": "/programm/pdetail/cia-vero-cendoya-bogumer-or-children-of-lunacharski",
+        "date_time": "2022-11-18 20:30:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "40e6016edc6afd521ecdddcd1e6fa52752a92c39cf4f9513c8412ba5fcae3fa7",
+        "title": "<h3>Meine Damen und Herren feat. SKART &amp; Masters of the Universe</h3>\n",
+        "url": "/programm/pdetail/meine-damen-und-herren-feat-skart-masters-of-the-universe-welt-ohne-uns",
+        "date_time": "2022-11-19 20:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "a3fa420c1b008e97bfd323e18bc2cf88874b8767a1622709338849fdaa99a19b",
+        "title": "<h3>Rimini Protokoll (Haug / Kaegi / Wetzel)</h3>\n",
+        "url": "/programm/pdetail/rimini-protokoll-haug-kaegi-wetzel-konferenz-der-abwesenden",
+        "date_time": "2022-11-23 20:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "9fb3ca59fe4c79ded83312a506e4922824ce306d15508a9ff0a431013cefcec9",
+        "title": "<h3>zero point (Meg Stuart, Descha Daemgen &amp; Abraham Hurtado)</h3>\n",
+        "url": "/programm/pdetail/zero-point-trajectories-for-a-landscape",
+        "date_time": "2022-11-24 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "ecb307982be424e18015bd43a1a785dfe203d4b82e84d482da8c9214716436c2",
+        "title": "<h3>On Violence</h3>\n",
+        "url": "/programm/pdetail/on-violence-4-abolitionismus",
+        "date_time": "2022-11-24 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "c888b7d9e2f2592fc398cda52906777067672de4108314e538874098f5320f58",
+        "title": "<h3>Rimini Protokoll (Haug / Kaegi / Wetzel)</h3>\n",
+        "url": "/programm/pdetail/rimini-protokoll-haug-kaegi-wetzel-konferenz-der-abwesenden",
+        "date_time": "2022-11-24 20:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "727aaa088533eb0ad32640749282555c179de7240b540aaefdbe9e28731e8c93",
+        "title": "<h3>zero point (Meg Stuart, Descha Daemgen &amp; Abraham Hurtado)</h3>\n",
+        "url": "/programm/pdetail/zero-point-trajectories-for-a-landscape",
+        "date_time": "2022-11-25 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "9b9b2c09fe832231d393f2dc96c4bc676ab4d3f76c0e23a7069edd36e13d19d0",
+        "title": "<h3>Rimini Protokoll (Haug / Kaegi / Wetzel)</h3>\n",
+        "url": "/programm/pdetail/rimini-protokoll-haug-kaegi-wetzel-konferenz-der-abwesenden",
+        "date_time": "2022-11-25 20:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "f52f8cd86791888b19f3e642d336f426d82f5fa02f9237099609a2daf8799811",
+        "title": "<h3>zero point (Meg Stuart, Descha Daemgen &amp; Abraham Hurtado)</h3>\n",
+        "url": "/programm/pdetail/zero-point-trajectories-for-a-landscape",
+        "date_time": "2022-11-26 19:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      },
+      {
+        "checksum": "b61e95454d2fec12503e5d6a6f7975586887f0aa2e1a56bc0ef5f80b23d80e70",
+        "title": "<h3>Rimini Protokoll (Haug / Kaegi / Wetzel)</h3>\n",
+        "url": "/programm/pdetail/rimini-protokoll-haug-kaegi-wetzel-konferenz-der-abwesenden",
+        "date_time": "2022-11-26 20:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ],
+    [
+      {
+        "checksum": "30d94e2cf892cb1ca8dbbf3d4707f06bcdeb4e9ebca3a14aedfe541fa40d16ce",
+        "title": "<h3>Weiter Schreiben Mondial</h3>\n",
+        "url": "/programm/pdetail/weiter-schreiben-mondial-duennes-eis",
+        "date_time": "2022-11-27 16:00:00 +0100",
+        "info": [
+          "NOT_IMPLEMENTED"
+        ],
+        "pics": [
+
+        ],
+        "tags": [
+          "theater",
+          "performance",
+          "dance"
+        ]
+      }
+    ]
   ]
 }

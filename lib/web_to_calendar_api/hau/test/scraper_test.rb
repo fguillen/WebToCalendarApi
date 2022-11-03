@@ -15,6 +15,8 @@ class WebToCalendarApi::HAU::ScraperTest < Minitest::Test
 
     result = JSON.pretty_generate WebToCalendarApi::HAU::Scraper.run
 
+    # puts "result: #{result}"
+
     # puts "Warning: writing fixture!"
     # File.open("#{__dir__}/fixtures/calendar.json", "w") do |f|
     #   f.write result
